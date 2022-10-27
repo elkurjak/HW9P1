@@ -18,22 +18,8 @@ for(int a = 0; a < 5; a++){
     cout << setw(5) <<average;
     int wAverage = ((grades [a][1] * 0.2) + (grades [a][2] * 0.3) + (grades [a][3] * 0.3) + (grades [a][4] * 0.2)) /4;
   cout << setw(5) <<wAverage;
-      cout << endl;
-    int bad; //worst score
-  if (grades [a][1] < bad){
-    bad = grades [a] [1];
-  }
-  else if (grades [a][2] < bad){
-    bad = grades [a][2];
-  }
-  else if (grades [a][3] < bad){
-    bad = grades [a][3];
-  }
-  else {
-    bad = grades [a][4];
-  }
-  int topAverage = ()
-  } 
-}
+      cout << endl; 
 
+}
+}
   
